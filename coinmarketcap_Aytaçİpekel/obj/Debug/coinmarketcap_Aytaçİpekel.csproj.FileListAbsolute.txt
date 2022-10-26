@@ -1,0 +1,13 @@
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\bin\Debug\coinmarketcap_Aytaçİpekel.exe.config
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\bin\Debug\coinmarketcap_Aytaçİpekel.exe
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\bin\Debug\coinmarketcap_Aytaçİpekel.pdb
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.csprojAssemblyReference.cache
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.frmMain.resources
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.Properties.Resources.resources
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.csproj.GenerateResource.cache
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.csproj.CoreCompileInputs.cache
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.csproj.CopyComplete
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.exe
+C:\Users\Aytaç İpekel\Source\Repos\coinmarketcap_Aytaçİpekel\coinmarketcap_Aytaçİpekel\obj\Debug\coinmarketcap_Aytaçİpekel.pdb
